@@ -13,4 +13,4 @@ This repository **contains** my progress and exercises regarding the SQL databas
 * MySQL Workbench
 
 ---
-*Developed with dedication by an aspiring Backend Developer.* 
+*Developed with dedication by Miguel CL, Backend Developer.*
